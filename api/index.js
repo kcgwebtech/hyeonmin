@@ -7,7 +7,7 @@ const Token = require('./token');
 
 app.use(express.json());
 app.use(cookieParser());
-app.use(Token.checkToken());
+app.use(Token.checkToken);
 
 app.get('/testAPI',(req,res) =>{
     res.json({
