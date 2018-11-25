@@ -1,7 +1,7 @@
 const Sequelize = require("sequelize");
 
 const database = new Sequelize(
-    'account',
+    'kcg',
     'root',
     '3098',
     {
