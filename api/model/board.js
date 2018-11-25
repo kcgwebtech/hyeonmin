@@ -24,3 +24,4 @@ const boards = database.define('boards', {
 });
 
 module.exports = boards;
+

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="601faa2d-72bb-42fb-99da-1376209efdfc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/boards/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/model/board.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/model/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/model/database.js" afterDir="false" />
-    </list>
+    <list default="true" id="601faa2d-72bb-42fb-99da-1376209efdfc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -36,7 +31,7 @@
           <entry key="gitignore" value="2" />
           <entry key="haml" value="1" />
           <entry key="html" value="6" />
-          <entry key="js" value="17" />
+          <entry key="js" value="18" />
           <entry key="json" value="6" />
           <entry key="ts" value="1" />
         </counts>
@@ -45,7 +40,7 @@
         <counts>
           <entry key="HTML" value="4" />
           <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="17" />
+          <entry key="JavaScript" value="18" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Scratch" value="3" />
           <entry key="TypeScript" value="1" />
@@ -56,7 +51,7 @@
         <counts>
           <entry key="gitignore" value="23" />
           <entry key="html" value="307" />
-          <entry key="js" value="668" />
+          <entry key="js" value="695" />
           <entry key="json" value="60" />
           <entry key="ts" value="100" />
         </counts>
@@ -65,7 +60,7 @@
         <counts>
           <entry key="HTML" value="188" />
           <entry key="JSON" value="60" />
-          <entry key="JavaScript" value="668" />
+          <entry key="JavaScript" value="695" />
           <entry key="PLAIN_TEXT" value="23" />
           <entry key="Scratch" value="119" />
           <entry key="TypeScript" value="100" />
@@ -98,6 +93,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/boards/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="399">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -139,15 +143,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/config/jwt.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -203,7 +198,6 @@
         <option value="$PROJECT_DIR$/api/config/jwt.json" />
         <option value="$PROJECT_DIR$/api/auth/login/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/api/index.js" />
         <option value="$PROJECT_DIR$/api/auth/login/index.html" />
         <option value="$PROJECT_DIR$/login/index.js" />
         <option value="$PROJECT_DIR$/login/index.html" />
@@ -214,6 +208,7 @@
         <option value="$PROJECT_DIR$/api/model/database.js" />
         <option value="$PROJECT_DIR$/api/model/board.js" />
         <option value="$PROJECT_DIR$/api/boards/index.js" />
+        <option value="$PROJECT_DIR$/api/index.js" />
       </list>
     </option>
   </component>
@@ -260,7 +255,7 @@
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="boards" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
@@ -317,18 +312,17 @@
       <workItem from="1540705270721" duration="3958000" />
       <workItem from="1540711812280" duration="4117000" />
       <workItem from="1541914002298" duration="5019000" />
-      <workItem from="1543120267358" duration="4562000" />
+      <workItem from="1543120267358" duration="4806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29086000" />
+    <option name="totallyTimeSpent" value="29330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="643" y="69" width="1310" height="863" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2672956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2672956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -340,7 +334,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39231825" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39231825" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -401,13 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1311">
           <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -497,8 +484,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/boards/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="399">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
