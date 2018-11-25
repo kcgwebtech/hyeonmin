@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="601faa2d-72bb-42fb-99da-1376209efdfc" name="Default Changelist" comment="" />
+    <list default="true" id="601faa2d-72bb-42fb-99da-1376209efdfc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -51,7 +53,7 @@
         <counts>
           <entry key="gitignore" value="23" />
           <entry key="html" value="307" />
-          <entry key="js" value="703" />
+          <entry key="js" value="765" />
           <entry key="json" value="60" />
           <entry key="ts" value="100" />
         </counts>
@@ -60,7 +62,7 @@
         <counts>
           <entry key="HTML" value="188" />
           <entry key="JSON" value="60" />
-          <entry key="JavaScript" value="703" />
+          <entry key="JavaScript" value="765" />
           <entry key="PLAIN_TEXT" value="23" />
           <entry key="Scratch" value="119" />
           <entry key="TypeScript" value="100" />
@@ -93,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="124">
@@ -102,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+            <state relative-caret-position="-142">
+              <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -130,7 +132,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/model/board.js">
+        <entry file="file://$PROJECT_DIR$/api/model/boards.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
@@ -204,11 +206,11 @@
         <option value="$PROJECT_DIR$/api/auth/index.js" />
         <option value="$PROJECT_DIR$/api/auth/logout/index.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/api/boards/index.js" />
         <option value="$PROJECT_DIR$/api/model/board.js" />
         <option value="$PROJECT_DIR$/api/model/database.js" />
         <option value="$PROJECT_DIR$/api/index.js" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
@@ -227,8 +229,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="643" />
-    <option name="y" value="69" />
+    <option name="x" value="645" />
+    <option name="y" value="153" />
     <option name="width" value="1310" />
     <option name="height" value="863" />
   </component>
@@ -245,11 +247,6 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,18 +297,18 @@
       <workItem from="1540705270721" duration="3958000" />
       <workItem from="1540711812280" duration="4117000" />
       <workItem from="1541914002298" duration="5019000" />
-      <workItem from="1543120267358" duration="5233000" />
+      <workItem from="1543120267358" duration="5695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29757000" />
+    <option name="totallyTimeSpent" value="30219000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="643" y="69" width="1310" height="863" extended-state="0" />
+    <frame x="645" y="153" width="1310" height="863" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2672956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2672956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -323,7 +320,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39231825" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39231825" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -443,13 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/boards/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -457,7 +447,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/model/board.js">
+    <entry file="file://$PROJECT_DIR$/api/model/boards.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
@@ -482,6 +472,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
         </state>
       </provider>
     </entry>
